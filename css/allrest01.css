@@ -1,0 +1,19 @@
+
+.heading{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-style:initial;
+    padding-top: 100px;
+}
+.heading p{
+    color: #777;
+    /* font-size: 14px;
+    font-weight: 300; */
+    line-height: 22px;
+    padding: 5px;
+}
+.hooom{
+    text-align: right;
+    padding: 30px;
+}

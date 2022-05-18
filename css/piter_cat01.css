@@ -1,0 +1,44 @@
+
+ .cat{
+    width: 100%;
+    font-size: 400%;
+    font-weight: bold;
+    font-style: initial;
+    color: darkviolet;
+    /* background: rgb(130, 245, 92); */
+    background-image:  linear-gradient(rgba(232, 232, 235, 0.7),rgba(212, 212, 214, 0.7)),url(200.gif);
+    background:cover;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.hov:hover{
+    transform: scale(1.2,1.2);
+    -webkit-transform: scale(1.2,1.2);
+}
+.cent{
+    text-align: left;
+    color: chocolate;
+}
+.bcolor{
+    color: aqua;
+}
+/* .col{
+    background: rgb(89, 241, 150);
+    height: 50px;
+} */
+.cls{
+    background:burlywood;
+}
+.picb{
+    background: gold;
+   
+}
+
+.btnm{
+    text-align: right;
+}
+
+
+
+
